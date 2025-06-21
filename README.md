@@ -15,6 +15,9 @@ your_project/
 ├── .gitignore              # Git 忽略文件
 └── setup.py                # （可选）安装脚本
 
-
+## git hub 代码推送
+git add .
+git commit -m "你的更新说明"
+git push
 
 
